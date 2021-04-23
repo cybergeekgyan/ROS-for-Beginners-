@@ -37,3 +37,29 @@
    * VM for Mac
    
      * Install VM Fusion on mac.
+
+
+### Ubuntu Installation
+
+===> **Installation of Ubuntu on different operating system**
+
+   * Ubuntu on windows using VMware Workstation Player
+      
+      * Download the Ubuntu iso (desktop not server) and the free VMware Player.
+      * Install VMware Player and run it.
+      * Select “Create a New Virtual Machine”
+      * Select “Installer disc image file” and browse to the Ubuntu iso you downloaded.
+      * You should see that it will use Easy Install – this takes care of most of the hard work for you. Click next
+      * Enter your full name, username and password and hit next
+      * Select the maximum disk size and type. Unless you’re planning on some really CPU intensive work inside the VM, 
+        select the “Split virtual disk into multiple files” option. Hit next when you’re happy with the settings.
+      * This brings you to the confirmation page. Click “Customize Hardware”
+      * In the hardware options section select the amount of memory you want the VM to use. In this instance I’ve gone for 4GB out of the 16GB installed in my laptop. 
+        Leave everything else as it is and click Close.
+      * This brings you back to the confirmation page. Click Finish this time
+      * You will probably be prompted to download VMware Tools for Linux. Click “Download and Install” to continue
+      * Wait for it to install
+      * Ubuntu will then start to install, so keep waiting (or do what I did and go to bed!)
+      * When all is done you’ll be presented with the Ubuntu login screen. So enter your password and you’re on your way.
+      * Click the clock in the top right to set your time and date settings
+      * Once you’ve set that up, you’re up and running with Ubuntu in VMware Player on your Windows machine. Congratulations and enjoy
