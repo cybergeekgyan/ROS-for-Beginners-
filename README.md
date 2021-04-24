@@ -1,7 +1,28 @@
 # ROS-for-Beginners-
   - *Follow this step by step for full process in detail.*
 
-### ROS Installation Tips
+![whatisrobot](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/whatisrobot.png)
+![impact](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/impact.png)
+
+**WHAT IS ROS?**
+▸ ROS is an open-source software framework for robot software development 
+▸ Provides an operating system-like functionality 
+▸ Provides OS services 
+▸ Hardware abstraction 
+▸ Low-level device control 
+▸ Implementation of commonly-used functionality 
+▸ Message-passing between processes 
+▸ Package management
+
+**WHY ROS?**
+▸ Code reuse in Robotics R&D 
+▸ Ready-to-use development environment 
+▸ Comprehensive tools and client API libraries 
+▸ Scalable (distributed network of processes loosely coupled) 
+▸ Large community 
+▸ Continuous support
+
+## ROS Installation and Environment Setup 
 
 **which distribution to Install?**
   - visit http://wiki.ros.org/ROS/Tutorials
@@ -86,7 +107,11 @@
 
 **Create a ROS workspace
      
-   *Let's create and build a catkin workspace:*
+   ▸ create your own catkin workspace (catkin_ws) in your HOME directory 
+   ▸ your catkin workspace will be used to create and store your own ROS packages (project) 
+   ▸ catkin is the name of the build tool used to compile and execute programs in ROS
+  
+  *Let's create and build a catkin workspace:*
       
       $ mkdir -p ~/catkin_ws/src
       $ cd ~/catkin_ws/
@@ -259,3 +284,6 @@ Then, run the node as follows
 You will see the following output
 
     500
+
+
+## ROS Ecosystem
