@@ -29,13 +29,15 @@
 ![act](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/act.png)
 
 
-**WHAT IS ROS?**<br>
+## WHAT IS ROS?
 ![whatisros](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/whatisros.png)
 
 ![rosecosystem](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/rosecosystem.png)
 
 ![rosdistributions](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/rosdistributions.png)
 
+
+**WHAT IS ROS?**<br>
 ▸ ROS is an open-source software framework for robot software development<br> 
 ▸ Provides an operating system-like functionality<br> 
 ▸ Provides OS services<br> 
