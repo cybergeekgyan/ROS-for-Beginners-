@@ -38,6 +38,7 @@
 
 
 **WHAT IS ROS?**<br>
+
 ▸ ROS is an open-source software framework for robot software development<br> 
 ▸ Provides an operating system-like functionality<br> 
 ▸ Provides OS services<br> 
