@@ -5,13 +5,17 @@
 ![impact](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/impact.png)
 ![hotareas](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/hotareas.png)
 
-**SELF DRIVING CARS**![selfdrivingcars](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/selfdrivingcars.png)
+**SELF DRIVING CARS**
+![selfdrivingcars](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/selfdrivingcars.png)
 
-**DRONES**![drones](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/drones.png)
+**DRONES**
+![drones](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/drones.png)
 
-**SERVICE ROBOTS**![servicerobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/servicerobots.png)
+**SERVICE ROBOTS**
+![servicerobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/servicerobots.png)
 
-**INDUSTRIAL ROBOTS**![industrialrobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/industrialrobots.png)
+**INDUSTRIAL ROBOTS**
+![industrialrobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/industrialrobots.png)
 
 
 ![rpc](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/rpc.png)
@@ -23,7 +27,15 @@
 ![think](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/think.png)
 
 ![act](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/act.png)
+
+
 **WHAT IS ROS?**<br>
+![whatisros](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/whatisros.png)
+
+![rosecosystem](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/rosecosystem.png)
+
+![rosdistributions](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/rosdistributions.png)
+
 ▸ ROS is an open-source software framework for robot software development<br> 
 ▸ Provides an operating system-like functionality<br> 
 ▸ Provides OS services<br> 
@@ -34,6 +46,7 @@
 ▸ Package management<br>
 
 **WHY ROS?**<br>
+
 ▸ Code reuse in Robotics R&D<br> 
 ▸ Ready-to-use development environment<br> 
 ▸ Comprehensive tools and client API libraries<br> 
@@ -306,3 +319,5 @@ You will see the following output
 
 
 ## ROS Ecosystem
+
+![rosecosystem](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/rosecosystem.png)
