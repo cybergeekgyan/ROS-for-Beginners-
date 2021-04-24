@@ -3,6 +3,19 @@
 
 ![whatisrobot](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/whatisrobot.png)
 ![impact](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/impact.png)
+![hotareas](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/hotareas.png)
+
+**SELF DRIVING CARS
+![selfdrivingcars](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/selfdrivingcars.png)
+
+**DRONES**
+![drones](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/drones.png)
+
+**SERVICE ROBOTS**
+![servicerobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/servicerobots.png)
+
+**INDUSTRIAL ROBOTS**
+![industrialrobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/industrialobots.png)
 
 **WHAT IS ROS?**<br>
 ▸ ROS is an open-source software framework for robot software development<br> 
