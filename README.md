@@ -4,23 +4,23 @@
 ![whatisrobot](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/whatisrobot.png)
 ![impact](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/impact.png)
 
-**WHAT IS ROS?**
-▸ ROS is an open-source software framework for robot software development 
-▸ Provides an operating system-like functionality 
-▸ Provides OS services 
-▸ Hardware abstraction 
-▸ Low-level device control 
-▸ Implementation of commonly-used functionality 
-▸ Message-passing between processes 
-▸ Package management
+**WHAT IS ROS?**<br>
+▸ ROS is an open-source software framework for robot software development<br> 
+▸ Provides an operating system-like functionality<br> 
+▸ Provides OS services<br> 
+▸ Hardware abstraction <br>
+▸ Low-level device control<br>
+▸ Implementation of commonly-used functionality<br> 
+▸ Message-passing between processes<br>
+▸ Package management<br>
 
-**WHY ROS?**
-▸ Code reuse in Robotics R&D 
-▸ Ready-to-use development environment 
-▸ Comprehensive tools and client API libraries 
-▸ Scalable (distributed network of processes loosely coupled) 
-▸ Large community 
-▸ Continuous support
+**WHY ROS?**<br>
+▸ Code reuse in Robotics R&D<br> 
+▸ Ready-to-use development environment<br> 
+▸ Comprehensive tools and client API libraries<br> 
+▸ Scalable (distributed network of processes loosely coupled)<br> 
+▸ Large community<br> 
+▸ Continuous support<br>
 
 ## ROS Installation and Environment Setup 
 
