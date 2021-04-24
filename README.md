@@ -15,7 +15,7 @@
 ![servicerobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/servicerobots.png)
 
 **INDUSTRIAL ROBOTS**
-![industrialrobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/industrialobots.png)
+![industrialrobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/industrialrobots.png)
 
 **WHAT IS ROS?**<br>
 ▸ ROS is an open-source software framework for robot software development<br> 
