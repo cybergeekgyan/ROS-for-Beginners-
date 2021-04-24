@@ -1,4 +1,5 @@
 # ROS-for-Beginners-
+  - *Follow this step by step for full process in detail.*
 
 ### ROS Installation Tips
 
@@ -91,9 +92,6 @@
       $ cd ~/catkin_ws/
       $ catkin_make
 
-
- ==> visit for more details --- http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment#Create_a_ROS_Workspace
-    
 
 ### How to Configure Eclipse to Program with ROS
 
