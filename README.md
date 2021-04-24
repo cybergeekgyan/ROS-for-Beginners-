@@ -5,17 +5,13 @@
 ![impact](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/impact.png)
 ![hotareas](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/hotareas.png)
 
-**SELF DRIVING CARS**
-![selfdrivingcars](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/selfdrivingcars.png)
+**SELF DRIVING CARS**![selfdrivingcars](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/selfdrivingcars.png)
 
-**DRONES**
-![drones](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/drones.png)
+**DRONES**![drones](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/drones.png)
 
-**SERVICE ROBOTS**
-![servicerobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/servicerobots.png)
+**SERVICE ROBOTS**![servicerobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/servicerobots.png)
 
-**INDUSTRIAL ROBOTS**
-![industrialrobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/industrialrobots.png)
+**INDUSTRIAL ROBOTS**![industrialrobots](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/industrialrobots.png)
 
 
 ![rpc](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/rpc.png)
