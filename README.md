@@ -140,7 +140,7 @@
        * we get an Integrated terminal here , so you can run your code here in the terminal itself
        * It is very lightweight as compared to Eclipse and also simple to use.
 
-**Create a ROS workspace
+**Create a ROS workspace**
      
    ▸ create your own catkin workspace (catkin_ws) in your HOME directory 
    ▸ your catkin workspace will be used to create and store your own ROS packages (project) 
