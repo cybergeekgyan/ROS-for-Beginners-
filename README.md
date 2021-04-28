@@ -199,10 +199,10 @@
 ▸ catkin_make<br> 
 ▸ this will generate executable and configuration files for the project<br> 
 
-**MAKE THE NEW PACKAGE THE DEFAULT ONE**
-▸ add the following command in .bashrc 
-▸ source /home/gyan/catkin_ws/devel/setup.bash 
-▸ replace gyan by your username
+**MAKE THE NEW PACKAGE THE DEFAULT ONE**<br>
+▸ add the following command in .bashrc<br> 
+▸ source /home/gyan/catkin_ws/devel/setup.bash<br> 
+▸ replace gyan by your username<br>
 
 
 ### How to Configure Eclipse to Program with ROS
