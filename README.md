@@ -140,6 +140,23 @@
        * we get an Integrated terminal here , so you can run your code here in the terminal itself
        * It is very lightweight as compared to Eclipse and also simple to use.
 
+## ROS FILE SYSTEM - Hands On
+
+**CONFIGURE WORKSPACE**
+▸ source /opt/ros/<ros-distro>/setup.bash
+▸ activate the ROS default workspace 
+▸ Add the command into .bashrc file 
+▸ .bashrc is a file executed automatically every time a new terminal is open 
+▸ roscd 
+▸ take you to the default workspace 
+
+▸ cd 
+▸ takes you to HOME directory 
+▸ .bashrc is in the HOME directory 
+▸ you can create shortcuts and aliases in .bashrc 
+▸ alias gb=“gedit /home/gyan/.bashrc”
+*replace gyan by your username*
+
 **Create a ROS workspace**
      
    ▸ create your own catkin workspace (catkin_ws) in your HOME directory 
@@ -151,6 +168,23 @@
       $ mkdir -p ~/catkin_ws/src
       $ cd ~/catkin_ws/
       $ catkin_make
+
+**CREATE A ROS PACKAGE**
+▸ Create your ROS package (project) that you will use to develop programs. 
+▸ the package must be created inside the src folder 
+▸ first move to the folder 
+▸ cd ~catkin_ws/src/ 
+▸ Create your package (specify the dependencies) 
+▸ catkin_create_pkg cs460_package std_msgs rospy roscpp 
+▸ Go to catkin_ws and compile 
+▸ cd .. 
+▸ catkin_make 
+▸ this will generate executable and configuration files for the project 
+
+**MAKE THE NEW PACKAGE THE DEFAULT ONE**
+▸ add the following command in .bashrc 
+▸ source /home/gyan/catkin_ws/devel/setup.bash 
+▸ replace gyan by your username
 
 
 ### How to Configure Eclipse to Program with ROS
