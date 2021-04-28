@@ -142,7 +142,7 @@
 
 ## ROS FILE SYSTEM - Hands On
 
-**CONFIGURE WORKSPACE**
+**CONFIGURE WORKSPACE**<br>
 ▸ source /opt/ros/<ros-distro>/setup.bash<br>
 ▸ activate the ROS default workspace<br> 
 ▸ Add the command into .bashrc file<br>
@@ -187,17 +187,17 @@
 ### ROS PACKAGE
 
 
-**CREATE A ROS PACKAGE**
-▸ Create your ROS package (project) that you will use to develop programs. 
-▸ the package must be created inside the src folder 
-▸ first move to the folder 
-▸ cd ~catkin_ws/src/ 
-▸ Create your package (specify the dependencies) 
-▸ catkin_create_pkg cs460_package std_msgs rospy roscpp 
-▸ Go to catkin_ws and compile 
-▸ cd .. 
-▸ catkin_make 
-▸ this will generate executable and configuration files for the project 
+**CREATE A ROS PACKAGE**<br>
+▸ Create your ROS package (project) that you will use to develop programs.<br> 
+▸ the package must be created inside the src folder<br> 
+▸ first move to the folder<br> 
+▸ cd ~catkin_ws/src/<br>
+▸ Create your package (specify the dependencies)<br> 
+▸ catkin_create_pkg cs460_package std_msgs rospy roscpp<br> 
+▸ Go to catkin_ws and compile<br> 
+▸ cd ..<br> 
+▸ catkin_make<br> 
+▸ this will generate executable and configuration files for the project<br> 
 
 **MAKE THE NEW PACKAGE THE DEFAULT ONE**
 ▸ add the following command in .bashrc 
