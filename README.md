@@ -8,7 +8,7 @@
 - Recognize how to develop a C++/Python ROS project
 - Develop simple computer vision programs with ROS and OpenCV
 
-** Three major topics 👎
+**Three major topics** 👎
 - **ROS Basics and Foundation**:  which deals with the general ROS concepts that everyone has to know, like ROS topics, Services, Messages, Nodes, ...
 
 - **Motion in ROS**:
