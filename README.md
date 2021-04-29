@@ -1,6 +1,34 @@
 # ROS-for-Beginners-
   - *Follow this step by step for full process in detail.*
 
+## What you'll learn
+- Understand ROS Ecosystem (topics, nodes, messages, services, actionlib)
+- Develop simple applications to control robot motion
+- Understand how a position and orientation are represented in ROS
+- Recognize how to develop a C++/Python ROS project
+- Develop simple computer vision programs with ROS and OpenCV
+
+** Three major topics 👎
+- **ROS Basics and Foundation**:  which deals with the general ROS concepts that everyone has to know, like ROS topics, Services, Messages, Nodes, ...
+
+- **Motion in ROS**:
+    -  We apply the concepts learned in Step 1 to make a robot move. 
+    -  We will develop a different trajectory in the context of a nice example simulating a cleaning robot. 
+    -  In particular, we illustrate how to represent the pose (position and orientation) of a robot in ROS, and 
+    -  how to send a motion control message to make the robot move. 
+    -  We clearly demonstrate how to implement a linear motion, a rotational motion, and spiral motion and 
+    -  how all of these be integrated to simulate a cleaning application. 
+    -  This part will you the background you need to understand robot kinematics and how motion is represented in ROS.
+
+- **Perception in ROS**: 
+    - how a robot sees the environment using a camera, 
+    - how the images are collected in ROS, and 
+    - how they are processed in OpenCV. 
+
+- **Arduino**:
+    - we will also learn how to use Arduino boards and sensors with ROS using the ROSSERIAL Arduino interface. 
+    - This will allow you to integrate any Arduino sensor and board into your robot and robotics applications.
+
 ![whatisrobot](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/whatisrobot.png)
 ![impact](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/impact.png)
 ![hotareas](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/hotareas.png)
