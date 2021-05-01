@@ -404,3 +404,22 @@ You will see the following output
 ## ROS Ecosystem
 
 ![rosecosystem](https://github.com/gyanprakash0221/ROS-for-Beginners-/blob/main/images/rosecosystem.png)
+
+### ROS Workspace and ROS Package
+
+==> **ROS project is also called a package and a package is defined inside a workspace as a location where to create the files and programs of the last project**
+
+    cd catkin_ws/
+    ~/catkin_ws$ ls
+   
+ =>  **build** : *It contains all the compiled files*
+ =>  **devel** : *for the development*
+ =>  **src**  : *for the source files*
+ *so our packages or projects will be created into the src folder*
+    
+    ~/catkin_ws$ cd src
+    ~/catkin_ws/src$ catkin_create_pkg <package name> std_msgs rospy roscpp
+    
+    ~/catkin_ws$
+    
+    
