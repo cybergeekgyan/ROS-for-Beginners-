@@ -412,9 +412,9 @@ You will see the following output
     cd catkin_ws/
     ~/catkin_ws$ ls
    
- =>  **build** : *It contains all the compiled files*
- =>  **devel** : *for the development*
- =>  **src**  : *for the source files*
+ =>  **build** : *It contains all the compiled files*<br>
+ =>  **devel** : *for the development*<br>
+ =>  **src**  : *for the source files*<br>
  *so our packages or projects will be created into the src folder*
     
     ~/catkin_ws$ cd src
